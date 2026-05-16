@@ -1,6 +1,6 @@
 # PHANTOM-Pi V21 — Anvil P-04 Submission
 
-**Team Lalith** · Manipal Institute of Technology Bangalore
+**Team Sonic** · Manipal Institute of Technology Bangalore
 
 A precision-prediction agent for PCAM (Modern Hopfield) memory retrieval.
 Two precision heads, switched at inference time by a distance gate:
